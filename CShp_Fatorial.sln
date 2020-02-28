@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{0FD30810-BB73-4991-A1BB-55AE35EBB007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial.Testes", "Fatorial.Testes\Fatorial.Testes.csproj", "{EF55B4EF-4E74-4D85-93AB-BD31BBE036D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD30810-BB73-4991-A1BB-55AE35EBB007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD30810-BB73-4991-A1BB-55AE35EBB007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD30810-BB73-4991-A1BB-55AE35EBB007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD30810-BB73-4991-A1BB-55AE35EBB007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF55B4EF-4E74-4D85-93AB-BD31BBE036D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF55B4EF-4E74-4D85-93AB-BD31BBE036D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF55B4EF-4E74-4D85-93AB-BD31BBE036D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF55B4EF-4E74-4D85-93AB-BD31BBE036D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2DDD727-2B45-4FD8-A538-2C2F909261FA}
+	EndGlobalSection
+EndGlobal

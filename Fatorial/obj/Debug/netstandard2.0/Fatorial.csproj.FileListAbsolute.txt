@@ -1,0 +1,8 @@
+C:\Users\icosta\source\repos\CShp_FuncLocal\Fatorial\bin\Debug\netstandard2.0\Fatorial.deps.json
+C:\Users\icosta\source\repos\CShp_FuncLocal\Fatorial\bin\Debug\netstandard2.0\Fatorial.dll
+C:\Users\icosta\source\repos\CShp_FuncLocal\Fatorial\bin\Debug\netstandard2.0\Fatorial.pdb
+C:\Users\icosta\source\repos\CShp_FuncLocal\Fatorial\obj\Debug\netstandard2.0\Fatorial.csprojAssemblyReference.cache
+C:\Users\icosta\source\repos\CShp_FuncLocal\Fatorial\obj\Debug\netstandard2.0\Fatorial.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\CShp_FuncLocal\Fatorial\obj\Debug\netstandard2.0\Fatorial.AssemblyInfo.cs
+C:\Users\icosta\source\repos\CShp_FuncLocal\Fatorial\obj\Debug\netstandard2.0\Fatorial.dll
+C:\Users\icosta\source\repos\CShp_FuncLocal\Fatorial\obj\Debug\netstandard2.0\Fatorial.pdb
