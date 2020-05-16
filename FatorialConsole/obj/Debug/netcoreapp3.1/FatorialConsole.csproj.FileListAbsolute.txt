@@ -1,0 +1,13 @@
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\bin\Debug\netcoreapp3.1\FatorialConsole.exe
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\bin\Debug\netcoreapp3.1\FatorialConsole.deps.json
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\bin\Debug\netcoreapp3.1\FatorialConsole.runtimeconfig.json
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\bin\Debug\netcoreapp3.1\FatorialConsole.runtimeconfig.dev.json
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\bin\Debug\netcoreapp3.1\FatorialConsole.dll
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\bin\Debug\netcoreapp3.1\FatorialConsole.pdb
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\obj\Debug\netcoreapp3.1\FatorialConsole.csprojAssemblyReference.cache
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\obj\Debug\netcoreapp3.1\FatorialConsole.csproj.CoreCompileInputs.cache
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\obj\Debug\netcoreapp3.1\FatorialConsole.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\obj\Debug\netcoreapp3.1\FatorialConsole.AssemblyInfo.cs
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\obj\Debug\netcoreapp3.1\FatorialConsole.dll
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\obj\Debug\netcoreapp3.1\FatorialConsole.pdb
+C:\Users\icosta\source\repos\CShp_Fatorial\FatorialConsole\obj\Debug\netcoreapp3.1\FatorialConsole.genruntimeconfig.cache

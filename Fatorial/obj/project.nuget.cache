@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JP9QAKecpc4OTCSmm9phY2ZrnEkssAqCay8afSCSTMc697wk9xM76FGvinZOYn8izegcgYpVma9GTpIXSychNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\icosta\\source\\repos\\CShp_Fatorial\\Fatorial\\Fatorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\icosta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
